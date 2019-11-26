@@ -7,5 +7,5 @@ end
 def down
   change_column :profiles, :show_attribute, :boolean, default: nil
 end
-  end
+
 end
